@@ -1,0 +1,9 @@
+Package: com.christopher.freeformdark
+Name: Freeform Dark
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make canvas background black in the Freeform app
+Maintainer: Christopher Anderson
+Author: Christopher Anderson
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
